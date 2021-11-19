@@ -6,4 +6,4 @@ It is just some simple CSS that I've tweaked over time.
 
 Open the publish.css to see the CSS I use. Feel free to use it for your site.
 
-![](https://github.com/ericgregorich/Obsidian-Publish-CSS/blob/main/Obsidian%20Publish%20Home%20Page.png)
+![image](https://user-images.githubusercontent.com/26981280/142644863-02e5c180-150c-4445-b0ec-4b13a20df930.png)
